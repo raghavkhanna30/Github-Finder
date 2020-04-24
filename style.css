@@ -1,0 +1,14 @@
+body{
+	font-family: serif;
+}
+
+
+.profile_image {
+    width: 100%;
+}
+
+.card-text-head {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #aaa;
+}
